@@ -22,8 +22,8 @@ public class NewTest {
 	  driver.findElement(By.xpath("/html/body/form/table/tbody/tr[2]/td[2]/input")).sendKeys("bEjebyd");
 	  driver.findElement(By.xpath("/html/body/form/table/tbody/tr[3]/td[2]/input[1]")).click();
 	  
-	  
-	  
+	  //New Changes to Test Git Push Pull
+	  System.out.println("New Changes to Test Git Push Pull");
   }
   
   
